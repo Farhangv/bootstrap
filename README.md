@@ -3,7 +3,9 @@
     <img src="https://getbootstrap.com/assets/brand/bootstrap-solid.svg" alt="" width=72 height=72>
   </a>
 
-  <h3 align="center">Bootstrap</h3>
+  <h3 align="center">Bootstrap.RTL</h3>
+  <h4>RTL (Right To Left) fork of popular Bootstrap</h4>
+  <h5>by Farhang Vafa</h5>
 
   <p align="center">
     Sleek, intuitive, and powerful front-end framework for faster and easier web development.
